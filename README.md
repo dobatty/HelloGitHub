@@ -1,3 +1,0 @@
-HelloGitHub
-===========
-test
